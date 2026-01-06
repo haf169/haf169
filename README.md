@@ -1,4 +1,4 @@
-# 💫About Me :
+<img width="564" height="564" alt="image" src="https://github.com/user-attachments/assets/188ba725-4c0d-42b2-9051-e8ac741f3d50" /># 💫About Me :
 🔭 I’m currently working on: Personal projects to enhance my FrontEnd expertise.
 
 
@@ -25,4 +25,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=haf169&icon=0&color=0)](https://visitcount.itsvg.in)
+[![]([https://visitcount.itsvg.in/api?id=haf169&icon=0&color=0)](https://visitcount.itsvg.in](https://github.com/codewithpom/dev-meme))
