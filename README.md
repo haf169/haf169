@@ -3,9 +3,13 @@
 
 
 👯 I’m looking to collaborate on: Open-source projects using ASP.NET Core, ReactJS, or NextJS.
+
 🤝 I’m looking for help with: Advanced System Design and Cloud Deployment.
+
 🌱 I’m currently learning: New techniques in Clean Code and Design Patterns.
+
 💬 Ask me about: Full-stack development, my internship at FPT Software, or the InnoCode competition.
+
 ⚡ Fun fact: I love building systems that solve real-world problems, from student activities to supermarket management.
 
 ## 🌐Socials
