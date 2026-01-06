@@ -22,7 +22,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂Random Dev Meme
-<img src="[https://random-memer.herokuapp.com](https://camo.githubusercontent.com/f472e3f2f9df564e5570bac747c13a94d132b855b9fe44ebee9bff39b393d26c/68747470733a2f2f692e70696e696d672e636f6d2f353634782f30642f31382f35312f30643138353133663334656439346162323432396534663937373030643830332e6a7067)/" width="512px"/>
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=haf169&icon=0&color=0)](https://visitcount.itsvg.in)
